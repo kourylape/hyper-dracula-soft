@@ -1,0 +1,23 @@
+{
+  "name": "hyper-dracula-soft",
+  "version": "0.0.1",
+  "description": "A variant of the Dracula theme for Hyper",
+  "license": "MIT",
+  "repository": "ckylape/hyper-dracula-soft",
+  "author": {
+    "name": "Koury Lape",
+    "email": "ckylape@gmail.com",
+    "url": "https://github.com/ckylape"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+	"dracula-theme",
+	"dracula-soft",
+    "hyper",
+    "hyper-theme",
+	"hyper-dracula",
+	"hyper-dracula-soft"
+  ]
+}
