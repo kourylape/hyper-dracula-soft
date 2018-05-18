@@ -1,6 +1,6 @@
-# Dracula for [Hyper](https://hyper.is)
+# Soft Dracula for [Hyper](https://hyper.is)
 
-> A spin off of the [Dracula theme](https://draculatheme.com/) for [Hyper](https://hyper.is).
+> A spin off of the [Soft Dracula theme](https://draculatheme.com/) for [Hyper](https://hyper.is).
 
 ![Screenshot](screenshot.png)
 
